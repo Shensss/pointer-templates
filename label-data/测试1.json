@@ -1,7 +1,7 @@
 {
   "version": 1,
   "name": "测试1",
-  "kind": "label",
+  "kind": "invoice",
   "headers": [
     "合同号",
     "交货日期",
@@ -44,9 +44,9 @@
     ]
   ],
   "createdAt": "2026-05-12T09:40:21.414Z",
-  "updatedAt": "2026-05-12T09:40:27.029Z",
+  "updatedAt": "2026-05-13T06:51:31.654Z",
   "sharing": {
-    "from": "沈益跑",
+    "from": "沈德众",
     "to": "沈德昆"
   }
 }
