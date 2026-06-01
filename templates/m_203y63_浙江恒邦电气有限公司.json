@@ -1,0 +1,1 @@
+{"rows":[{"type":"single","field":"规格型号"},{"type":"single","field":"备注"},{"type":"double","fields":["物料代码","物料名称"]},{"type":"double","fields":["单位","数量"]}],"fields":["物料代码","物料名称","规格型号","单位","数量","备注"],"dateFields":[],"fieldMap":{},"companyName":"温州富恩代印务有限公司","name":"浙江恒邦电气有限公司","type":"label"}
