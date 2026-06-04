@@ -29,9 +29,11 @@
     ]
   ],
   "createdAt": "2026-06-03T08:41:21.724Z",
-  "updatedAt": "2026-06-03T08:41:42.898Z",
+  "updatedAt": "2026-06-04T06:46:58.623Z",
   "sharing": {
     "from": "沈德众",
     "to": "沈德昆"
-  }
+  },
+  "read": true,
+  "printed": false
 }
