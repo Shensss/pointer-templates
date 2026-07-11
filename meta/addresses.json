@@ -2,12 +2,6 @@
   "version": 1,
   "addresses": [
     {
-      "id": "535304db-cddc-4d85-909a-86fba2e3ade3",
-      "customerName": "2222啊啊",
-      "address": "2323",
-      "contact": ""
-    },
-    {
       "id": "02258667-a612-46ba-a093-927328a801c1",
       "customerName": "a",
       "address": "b",
