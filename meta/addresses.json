@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "addresses": []
+  "addresses": [
+    {
+      "id": "2e783a3f-94cd-411c-aafd-abe2418c7964",
+      "customerName": "公司1",
+      "address": "测试地址1",
+      "contact": "测试联系人（1355555555）"
+    }
+  ]
 }
