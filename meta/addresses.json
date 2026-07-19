@@ -1,4 +1,11 @@
 {
   "version": 1,
-  "addresses": []
+  "addresses": [
+    {
+      "id": "c27f6a86-0afe-459d-9ea7-a151d55abbe4",
+      "customerName": "衢州三源汇能电子股份有限公司",
+      "address": "浙江省衢州市盘龙南路30号",
+      "contact": "采购部 小徐18767135053"
+    }
+  ]
 }
