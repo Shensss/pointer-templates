@@ -1,7 +1,7 @@
 {
   "version": 1,
   "name": "昆寄_2026-09-28_17-20-17",
-  "kind": "label",
+  "kind": "invoice",
   "headers": [
     "下单日期",
     "送货日期",
@@ -41,11 +41,11 @@
     ]
   ],
   "createdAt": "2026-09-28T09:22:56.079Z",
-  "updatedAt": "2026-09-28T09:24:09.344Z",
+  "updatedAt": "2026-09-28T11:27:48.685Z",
   "sharing": {
     "from": "沈德众",
     "to": "沈德昆"
   },
   "read": true,
-  "printed": false
+  "printed": true
 }
