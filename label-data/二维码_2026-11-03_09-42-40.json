@@ -293,9 +293,11 @@
     ]
   ],
   "createdAt": "2026-11-03T01:43:40.188Z",
-  "updatedAt": "2026-11-03T01:48:44.516Z",
+  "updatedAt": "2026-11-03T02:02:25.694Z",
   "sharing": {
     "from": "沈德众",
     "to": "沈德昆"
-  }
+  },
+  "read": true,
+  "printed": false
 }
